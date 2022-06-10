@@ -1,0 +1,1 @@
+# limpar_historico_chrome
